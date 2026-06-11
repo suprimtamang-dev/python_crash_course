@@ -7,7 +7,7 @@ print(type(age_float))
 
 short_note="This is a short note."
 print(short_note[::-1])
-name="Sandesh"
+name="Suprim"
 age=19
 
 course="Python"
